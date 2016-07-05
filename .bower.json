@@ -1,0 +1,39 @@
+{
+  "name": "angular-piechart",
+  "authors": [
+    "Nicolas Jessel <akanass@icloud.com>"
+  ],
+  "description": "Angular.js lightweight plugin to render simple, animated and retina optimized pie charts",
+  "main": [
+    "dist/scripts/angular-piechart.min.js",
+    "dist/styles/angular-piechart.min.css"
+  ],
+  "keywords": [
+    "angular",
+    "pie",
+    "chart",
+    "gauge",
+    "html5",
+    "css3",
+    "canvas",
+    "animate"
+  ],
+  "ignore": [
+    "gulp/",
+    "src/",
+    ".gitignore",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/njl07/angular-piechart",
+  "_release": "3f0593a48b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3f0593a48bf3bc1dac013e24777bb24afbeac029"
+  },
+  "_source": "https://github.com/njl07/angular-piechart.git",
+  "_target": "*",
+  "_originalSource": "angular-piechart"
+}
